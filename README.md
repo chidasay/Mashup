@@ -9,12 +9,12 @@ Java/楽天RSS/OpenStreetMap/OverpassAPI
   
 構成  
 bookSearchMashup  
-┣ Mashup          #全体の制御を行うクラス  
-┣ RecommendBooks  #ユーザから本の情報を聞き取り、おすすめの本を表示するクラス  
-┣ Feed            #楽天ランキングのRSSから、おすすめの本を取得するクラス  
-┣ Item            #本の情報を格納するデータの構造  
-┣ SearchLatLon    #OpenStreetMapのNominatim APIを用いて、地名から緯度と経度を取得するクラス  
-┣ Overpass        #現在地から最も近い本屋を、Overpass APIを用いて表示するクラス  
-┗ README.md       #説明ファイル  
+┣ Mashup          # 全体の制御を行うクラス  
+┣ RecommendBooks  # ユーザから本の情報を聞き取り、おすすめの本を表示するクラス  
+┣ Feed            # 楽天ランキングのRSSから、おすすめの本を取得するクラス  
+┣ Item            # 本の情報を格納するデータの構造  
+┣ SearchLatLon    # OpenStreetMapのNominatim APIを用いて、地名から緯度と経度を取得するクラス  
+┣ Overpass        # 現在地から最も近い本屋を、Overpass APIを用いて表示するクラス  
+┗ README.md       # 説明ファイル  
   
 その他は、ポートフォリオをご参照ください。
