@@ -8,11 +8,13 @@ WebAPIを用いて、おすすめの本と現在地近くの本屋を検索し�
 Java/楽天RSS/OpenStreetMap/OverpassAPI/ 
   
 ディレクトリ構成  
-bookSearchMashup
-┣ Mashup         #画像フォルダ  
-┣ index.html  #メインページ  
-┣ style.css   #スタイルシート  
-┣ script.js   #スクリプト  
-┗ README.md   #説明ファイル  
+bookSearchMashup  
+┣ Mashup          #全体の制御を行うクラス
+┣ RecommendBooks  #ユーザから本の情報を聞き取り、おすすめの本を表示するクラス
+┣ Feed            #楽天ランキングのRSSから、おすすめの本を取得するクラス
+┣ Item            #本の情報を格納するデータの構造  
+┣ SearchLatLon    #OpenStreetMapのNominatimAPIを用いて、地名から緯度と経度を取得するクラス  
+┣ Overpass        #現在地から最も近い本屋を、OverpassAPIを用いて表示するクラス  
+┗ README.md       #説明ファイル  
   
 その他は、ポートフォリオをの方をご参照ください。
