@@ -5,7 +5,7 @@ WebAPIを用いて、おすすめの本と現在地近くの本屋を検索し�
 外部APIの稼働状況によっては、うまく動作しない場合があります。ご了承ください。  
   
 使用技術  
-Java/楽天RSS/OpenStreetMap/OverpassAPI/ 
+Java/楽天RSS/OpenStreetMap/OverpassAPI  
   
 構成  
 bookSearchMashup  
