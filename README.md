@@ -9,7 +9,8 @@ Java/楽天RSS/OpenStreetMap/OverpassAPI/
   
 ディレクトリ構成  
 Mashup  
-┣ Mashup         #画像フォルダ  
+┃
+  ┣ Mashup         #画像フォルダ  
 ┣ index.html  #メインページ  
 ┣ style.css   #スタイルシート  
 ┣ script.js   #スクリプト  
