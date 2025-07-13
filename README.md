@@ -13,8 +13,8 @@ bookSearchMashup
 ┣ RecommendBooks  #ユーザから本の情報を聞き取り、おすすめの本を表示するクラス  
 ┣ Feed            #楽天ランキングのRSSから、おすすめの本を取得するクラス  
 ┣ Item            #本の情報を格納するデータの構造  
-┣ SearchLatLon    #OpenStreetMapのNominatimAPIを用いて、地名から緯度と経度を取得するクラス  
-┣ Overpass        #現在地から最も近い本屋を、OverpassAPIを用いて表示するクラス  
+┣ SearchLatLon    #OpenStreetMapのNominatim APIを用いて、地名から緯度と経度を取得するクラス  
+┣ Overpass        #現在地から最も近い本屋を、Overpass APIを用いて表示するクラス  
 ┗ README.md       #説明ファイル  
   
 その他は、ポートフォリオをご参照ください。
