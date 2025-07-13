@@ -17,4 +17,4 @@ bookSearchMashup
 ┣ Overpass        #現在地から最も近い本屋を、OverpassAPIを用いて表示するクラス  
 ┗ README.md       #説明ファイル  
   
-その他は、ポートフォリオをの方をご参照ください。
+その他は、ポートフォリオをご参照ください。
