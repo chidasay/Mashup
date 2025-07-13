@@ -8,8 +8,6 @@ WebAPIを用いて、おすすめの本と現在地近くの本屋を検索し�
 Java/楽天RSS/OpenStreetMap/OverpassAPI/ 
   
 ディレクトリ構成  
-Mashup  
-┃
 bookSearchMashup
 ┣ Mashup         #画像フォルダ  
 ┣ index.html  #メインページ  
